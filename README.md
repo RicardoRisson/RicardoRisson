@@ -1,12 +1,12 @@
-## Olá! tudo certo? 😎
+## Hey! How are you? 😎
 
 <img src = "giphy.gif" width = "240px" align = "right">
 
-🌱 Estudante de Ciência da computação, eu estou atualmente estudando na [UPF](https://www.upf.br/) <br>
-😊 Adoro a área de desenvolvimento web no geral, mas principalmente Front End <br>
-🔭 Procurando vagas no mercado de trabalho! <br>
+🌱 I am a computer science student, currently studying at [UPF](https://www.upf.br/) <br>
+😊 I love the web development area in general, but especially Front End <br>
+🔭 I'm looking for a job opportunity in my area! <br>
 
-📫 Entre em contato via: ricardorissonmachado@gmail.com
+📫 Contact me via email: ricardorissonmachado@gmail.com
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
