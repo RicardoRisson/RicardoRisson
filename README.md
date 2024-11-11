@@ -3,7 +3,7 @@
 <img src = "giphy.gif" width = "240px" align = "right">
 
 🌱 I am a computer science student, currently studying at [UPF](https://www.upf.br/) <br>
-😊 I love the web development area in general, but especially Front End <br>
+😊 I love the web development area in general, especially Front End <br>
 🔭 I'm looking for a job opportunity in my area! <br>
 
 📫 Contact me via email: ricardorissonmachado@gmail.com
