@@ -15,8 +15,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 </div>
 <br><br><br>
----
-<br><br><br>
+
+<br> ---
+ <br><br>
 
 <div align = "left">
 <img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoRisson&show_icons=true&theme=bear&count_private=true"/>
