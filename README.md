@@ -6,7 +6,7 @@
 😊 Adoro a área de desenvolvimento web no geral, mas principalmente Front End <br>
 🔭 Procurando vagas no mercado de trabalho! <br>
 
-📫 Entre em contato via: ricardorissonmachado@gmail.com
+📫 Entre em contato via: ricardorissonmachado@gmail.com>
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -24,8 +24,9 @@
 ***
 
 <div id="badges">
-  <a href = "https://www.linkedin.com/in/ricardo-risson-machado-034a141b6/">
+  <a href = "https://www.linkedin.com/in/ricardo-risson-machado-034a141b6/"/>
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href = "https://www.instagram.com/ricardo_risson/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt = "Instagram Badge"/>
+    </a>
