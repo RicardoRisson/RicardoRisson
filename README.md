@@ -2,8 +2,8 @@
 
 <img src = "giphy.gif" width = "240px" align = "right">
 <div align = "left">
-🌱 Estudante de Ciência da computação, eu estou atualmente estudando na [UPF](upf.br/) <br>
-😊 Adoro a area de desenvolvimento web no geral, mas principalmente Front End <br>
+🌱 Estudante de Ciência da computação, eu estou atualmente estudando na [UPF](https://www.upf.br/) <br>
+😊 Adoro a área de desenvolvimento web no geral, mas principalmente Front End <br>
 🔭 Procurando vagas no mercado de trabalho! <br>
 
 📫 Entre em contato via: ricardorissonmachado@gmail.com
@@ -15,7 +15,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 </div>
 <br><br><br><br> 
-
 
 <div align = "left">
 <img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoRisson&show_icons=true&theme=bear&count_private=true"/>
@@ -29,6 +28,4 @@
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href = "https://www.instagram.com/ricardo_risson/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-</div>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt
