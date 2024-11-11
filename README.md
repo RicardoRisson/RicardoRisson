@@ -1,6 +1,5 @@
-## Hi there 👋
+## Olá! tudo certo? 😎
 
-![snake animation](https://github.com/<RicardoRisson>/<RicardoRisson>/blob/output/github-contribution-grid-snake2.svg)
 
 <!--
 **RicardoRisson/RicardoRisson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
