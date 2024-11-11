@@ -17,6 +17,14 @@
 
 ---
 
+
+<div align = "left">
+<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoRisson&show_icons=true&theme=bear&count_private=true"/>
+<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=RicardoRisson&show_icons=true&show_icons=true&theme=bear&count_private=true" />
+</div>
+
+***
+
 <div id="badges">
   <a href = "www.linkedin.com/in/ricardo-risson-machado-034a141b6">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -24,11 +32,4 @@
   <a href = "https://www.instagram.com/ricardo_risson/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-</div>
-
-***
-
-<div align = "left">
-<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoRisson&show_icons=true&theme=bear&count_private=true"/>
-<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=RicardoRisson&show_icons=true&show_icons=true&theme=bear&count_private=true" />
 </div>
