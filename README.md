@@ -3,15 +3,14 @@
 <img src = "giphy.gif" width = "240px" align = "right">
 
 🌱 I am a computer science student, currently studying at [UPF](https://www.upf.br/) <br>
-😊 I love the web development area in general, especially Front End <br>
-🔭 I'm looking for a job opportunity in my area! <br>
 
-📫 Contact me via email: ricardorissonmachado@gmail.com
+📫 Contact me via email: ricardorissonmachado@gmail.com or rrmachado@inf.ufrgs.br
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="clang" alt="Clang" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 </div>
 <br><br><br><br> 
