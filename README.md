@@ -2,7 +2,7 @@
 
 <img src = "giphy.gif" width = "240px" align = "right">
 
-🌱 I am a computer science student, currently studying at [UFRGS](https://www.ufrgs.br/site/)) <br>
+🌱 I am a computer science student, currently studying at [UFRGS](https://www.ufrgs.br/site/) <br>
 
 📫 Contact me via email: ricardorissonmachado@gmail.com or rrmachado@inf.ufrgs.br
 
@@ -12,6 +12,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="clang" alt="Clang" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
 </div>
 <br><br><br><br> 
 
