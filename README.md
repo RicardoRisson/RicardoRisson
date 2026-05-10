@@ -2,7 +2,7 @@
 
 <img src = "giphy.gif" width = "240px" align = "right">
 
-🌱 I am a computer science student, currently studying at [UPF](https://www.upf.br/) <br>
+🌱 I am a computer science student, currently studying at [UFRGS](https://www.ufrgs.br/site/)) <br>
 
 📫 Contact me via email: ricardorissonmachado@gmail.com or rrmachado@inf.ufrgs.br
 
