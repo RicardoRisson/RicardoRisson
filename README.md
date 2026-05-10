@@ -24,9 +24,9 @@
 ***
 
 <div id="badges">
-  <a href = "https://www.linkedin.com/in/ricardo-risson-machado-034a141b6/"/>
+  <a href = "https://www.linkedin.com/in/ricardorisson/"/>
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href = "https://www.instagram.com/ricardo_risson/">
+  <a href = "https://www.instagram.com/ricardo.risson/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt = "Instagram Badge"/>
     </a>
